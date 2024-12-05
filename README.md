@@ -33,7 +33,7 @@ A project related to the M450 module, focusing on a specific topic or coursework
 ## 📫 Contact Me
 - **Email**: [nicolas.haas@ksb-sg.ch](mailto:nicolas.haas@ksb-sg.ch)
 - **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/nicolas-haas)
-- **Website**: [nicolashaas.dev](https://nicolashaas.dev)
+- **Website**: [nicolas-haas.ch](https://nicolas-haas.ch)
 
 ---
 
