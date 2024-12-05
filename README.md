@@ -1,11 +1,11 @@
 # Hi 👋, I'm Nicolas Haas
 
-I am a Software Engineer currently studying at IMS, a computer science school in St. Gallen. With a specialization in backend development and full-stack projects, I have gained valuable experience in JavaScript, Python, and Java through internships and personal projects. My goal is to further develop my skills in software development and contribute to impactful solutions in the tech industry, with a particular interest in web development and AI technologies.
+I am a Software Engineer currently studying at IMS, a computer science school in St. Gallen. I have gained valuable experience in JavaScript, c#, and Java through internships and personal projects. My goal is to further develop my skills in software development and contribute to impactful solutions in the tech industry, with a particular interest in web development and AI technologies.
 
 ---
 
 ## 💡 Skills
-JavaScript | Python | Java | HTML | CSS | React | Node.js | Express | MySQL | MongoDB | Git | Bash | REST APIs
+JavaScript | Python | C# | C |  Java | HTML | CSS | React | Node.js | Express | MySQL | MongoDB | Git | Bash | Docker |
 
 ---
 
