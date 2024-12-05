@@ -36,5 +36,3 @@ A simple yet pretty effective NotesApp.
 - **Website**: [nicolas-haas.ch](https://nicolas-haas.ch)
 
 ---
-
-Feel free to update this further as you add more repositories or projects!
