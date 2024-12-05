@@ -23,10 +23,10 @@ A collaborative calendar app developed for the KSB to enhance organization and p
 A collection of design patterns and exercises in C#, demonstrating your understanding of software design principles.
 
 ### [Portfolio](https://github.com/cpowern/Portfolio)
-Your personal portfolio website, showcasing your projects and skills in an interactive and modern way.
+My personal portfolio website, showcasing my projects and skills in an interactive and modern way.
 
-### [M450](https://github.com/cpowern/M450)
-A project related to the M450 module, focusing on a specific topic or coursework as part of your studies.
+### [NotesApp](https://github.com/cpowern/NotesApp)
+A simple yet pretty effective NotesApp.
 
 ---
 
