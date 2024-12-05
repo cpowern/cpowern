@@ -37,11 +37,4 @@ A simple yet pretty effective NotesApp.
 
 ---
 
-## 🚀 Contributions
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=cpowern&theme=github)
-
-- **289 contributions in the last year**
-
----
-
 Feel free to update this further as you add more repositories or projects!
